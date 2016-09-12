@@ -1,20 +1,7 @@
-#beginner python
+#begin-python
 
-## Grocery list
+##Variables
 
-* Pizza
-* Pizza
-* Pizza
-* Pizza
-* Pizza
+##Conditionals
 
-This is `a variable name`.
-
-```
-$ python run.py
-```
-
-```
-def my-function(a):
-	return a + 10
-```
+##Functions
